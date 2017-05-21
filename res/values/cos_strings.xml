@@ -17,4 +17,8 @@
     <string name="cos_mod_version">Code-OS version</string>
     <string name="mod_version_default">DEV</string>
 
+    <!-- Code-OS Configurations -->
+    <string name="configurations_title">Configurations</string>
+    <string name="header_category_custom">Customization</string>
+
 </resources>

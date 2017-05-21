@@ -138,6 +138,7 @@ import com.android.settingslib.drawer.SettingsDrawerActivity;
 import com.android.settingslib.drawer.Tile;
 
 import java.net.URISyntaxException;
+import com.codeos.configurations.MainSettings;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -373,6 +374,12 @@ public class SettingsActivity extends SettingsDrawerActivity
             TestingSettings.class.getName(),
             WifiAPITest.class.getName(),
             WifiInfo.class.getName(),
+            MasterClear.class.getName(),
+            NightDisplaySettings.class.getName(),
+            ManageDomainUrls.class.getName(),
+            AutomaticStorageManagerSettings.class.getName(),
+            ExpandedDesktopPreferenceFragment.class.getName(),
+            MainSettings.class.getName()
     };
 
 
