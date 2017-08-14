@@ -373,11 +373,6 @@ public class SettingsActivity extends SettingsDrawerActivity
             TestingSettings.class.getName(),
             WifiAPITest.class.getName(),
             WifiInfo.class.getName(),
-            MasterClear.class.getName(),
-            NightDisplaySettings.class.getName(),
-            ManageDomainUrls.class.getName(),
-            AutomaticStorageManagerSettings.class.getName(),
-            ExpandedDesktopPreferenceFragment.class.getName()
     };
 
 
