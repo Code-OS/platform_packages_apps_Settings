@@ -87,7 +87,13 @@
                 android:shouldDisableView="false"
                 android:title="@string/firmware_version"
                 android:summary="@string/device_info_default"/>
-
+        
+        <!-- Code-OS version -->
+        <Preference android:key="cos_mod_version"
+                 style="?android:preferenceInformationStyle"
+                 android:title="@string/cos_mod_version"
+                 android:summary="@string/mod_version_default" />
+       
         <!-- Security patch level -->
         <PreferenceScreen android:key="security_patch"
                 android:title="@string/security_patch"
